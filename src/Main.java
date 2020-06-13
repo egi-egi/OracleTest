@@ -7,6 +7,7 @@ public class Main {
         newArray = origAL.toArray(newArray);
         System.out.println("Hello");
         System.out.println("NewBranch");
+        System.out.println("SecondBranch");
     }
 
 }
