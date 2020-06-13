@@ -5,6 +5,7 @@ public class Main {
         ArrayList<String> origAL = new ArrayList<String>();
         String[] newArray = new String[origAL.size()];
         newArray = origAL.toArray(newArray);
+        System.out.println("Hello");
     }
 
 }
