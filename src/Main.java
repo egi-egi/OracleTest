@@ -6,6 +6,7 @@ public class Main {
         String[] newArray = new String[origAL.size()];
         newArray = origAL.toArray(newArray);
         System.out.println("Hello");
+        System.out.println("NewBranch");
     }
 
 }
